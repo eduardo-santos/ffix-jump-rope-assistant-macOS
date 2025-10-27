@@ -8,8 +8,8 @@ A free macOS app to help automate the jump rope mini-game in Final Fantasy IX vi
 
 ## 🚀 Download & Installation
 
-1. Go to the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) page.
-2. Download `FFIXJumpRopeAssistant.zip`.
+1. Go to the [Releases](https://github.com/eduardo-santos/ffix-jump-rope-assistant-macOS/releases) page.
+2. Download `FFIXJumpRopeAssistant.zip` of the latest version.
 3. Unzip the file.
 4. Move `FFIXJumpRopeAssistant.app` to your `/Applications` folder (recommended).
 5. On first launch, **right-click** the app and choose **Open** to bypass macOS security warning.
