@@ -1,6 +1,7 @@
 # FFIX Jump Rope Assistant
 
 A free macOS app to help automate the jump rope mini-game in Final Fantasy IX via PS Remote Play.
+
 ![Screenshot 2025-10-23 at 12 56 54](https://github.com/user-attachments/assets/b4d88d5d-9407-45af-b214-98da74d2427a)
 
 ---
